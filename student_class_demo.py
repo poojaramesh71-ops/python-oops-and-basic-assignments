@@ -3,4 +3,4 @@ class Student:
         print("Hello, I am a student")
 
 s1 = Student()
-s1.display()
+s1.display()
