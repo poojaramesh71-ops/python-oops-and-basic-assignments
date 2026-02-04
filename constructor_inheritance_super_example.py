@@ -7,4 +7,4 @@ class Child(Parent):
         super().__init__()
         print("Child constructor")
 
-obj = Child()
+obj = Child()
